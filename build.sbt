@@ -8,7 +8,10 @@ scalaVersion := "2.12.0"
 libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-sql" % "2.4.4",
 
-  "org.apache.spark" %% "spark-avro" % "2.4.4"
+  "org.apache.spark" %% "spark-avro" % "2.4.4",
+
+  "com.sun.jersey" % "jersey-bundle" % "1.9.1"
+
 
 )
 
