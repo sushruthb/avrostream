@@ -10,7 +10,11 @@ libraryDependencies ++= Seq(
 
   "org.apache.spark" %% "spark-avro" % "2.4.4",
 
-  "com.sun.jersey" % "jersey-bundle" % "1.9.1"
+  "com.sun.jersey" % "jersey-bundle" % "1.9.1",
+
+  "org.apache.logging.log4j" % "log4j-core" % "2.12.0",
+
+  "org.apache.logging.log4j" % "log4j-api" % "2.12.0"
 
 
 )

@@ -15,6 +15,17 @@
         <option name="sbtVersion" value="1.3.4" />
         <option name="useQualifiedModuleNames" value="true" />
       </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../streaming" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../streaming" />
+            <option value="$PROJECT_DIR$/../streaming/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.8" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </SbtProjectSettings>
     </option>
   </component>
 </project>
