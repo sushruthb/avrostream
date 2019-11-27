@@ -2,11 +2,12 @@ package com.stream.avro
 
 
 import org.apache.spark.sql.{SaveMode, SparkSession}
+import org.apache.log4j._
 
 object ReadAvro {
 
   def main(args:Array[String]): Unit ={
-
+    Logger.getLogger("org").setLevel(Level.ERROR)
     val spark= SparkSession.builder()
       .appName("Spark-Avro")
       .getOrCreate()
