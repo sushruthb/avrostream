@@ -2,6 +2,7 @@ package com.stream.avro
 
 
 import org.apache.spark.sql.{SaveMode, SparkSession}
+import org.apache.avro.SchemaBuilder
 import org.apache.log4j._
 
 object ReadAvro {
