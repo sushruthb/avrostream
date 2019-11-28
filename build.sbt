@@ -12,7 +12,7 @@ libraryDependencies ++= Seq(
 
   "org.apache.spark" %% "spark-sql-kafka-0-10" % "2.4.4" % "provided",
 
-  "org.apache.spark" %% "spark-hive" % "2.4.4" % "provided",
+  "org.apache.spark" %% "spark-hive" % "2.4.4",
 
   "com.sun.jersey" % "jersey-bundle" % "1.9.1",
 
