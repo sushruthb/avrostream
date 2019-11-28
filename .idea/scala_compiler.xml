@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="StructuredToKafka,avrostreaming,streaming_5535" />
+    <profile name="sbt 1" modules="Spark Scala Machine Learning Examples,StructuredToKafka,avrostreaming,spark_scala_ml_examples-master_3517,streaming_5535" />
   </component>
 </project>

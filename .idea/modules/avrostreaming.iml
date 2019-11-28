@@ -152,7 +152,6 @@
     <orderEntry type="library" name="sbt: org.json4s:json4s-core_2.12:3.5.3:jar" level="project" />
     <orderEntry type="library" name="sbt: org.json4s:json4s-jackson_2.12:3.5.3:jar" level="project" />
     <orderEntry type="library" name="sbt: org.json4s:json4s-scalap_2.12:3.5.3:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.lz4:lz4-java:1.4.0:jar" level="project" />
     <orderEntry type="library" name="sbt: org.mortbay.jetty:jetty-util:6.1.26:jar" level="project" />
     <orderEntry type="library" name="sbt: org.objenesis:objenesis:2.5.1:jar" level="project" />
     <orderEntry type="library" name="sbt: org.roaringbitmap:RoaringBitmap:0.7.45:jar" level="project" />
@@ -188,5 +187,8 @@
     </orderEntry>
     <orderEntry type="library" name="sbt: com.sun.jersey:jersey-bundle:1.9.1:jar" level="project" />
     <orderEntry type="library" name="sbt: javax.ws.rs:jsr311-api:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.kafka:kafka-clients:2.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.spark:spark-sql-kafka-0-10_2.12:2.4.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.lz4:lz4-java:1.4.1:jar" level="project" />
   </component>
 </module>

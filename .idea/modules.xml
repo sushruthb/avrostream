@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../spark_scala_ml_examples-master/.idea/modules/Spark Scala Machine Learning Examples.iml" filepath="$PROJECT_DIR$/../spark_scala_ml_examples-master/.idea/modules/Spark Scala Machine Learning Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spark_scala_ml_examples-master/.idea/modules/Spark Scala Machine Learning Examples-build.iml" filepath="$PROJECT_DIR$/../spark_scala_ml_examples-master/.idea/modules/Spark Scala Machine Learning Examples-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/../streaming/.idea/modules/StructuredToKafka.iml" filepath="$PROJECT_DIR$/../streaming/.idea/modules/StructuredToKafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/../streaming/.idea/modules/StructuredToKafka-build.iml" filepath="$PROJECT_DIR$/../streaming/.idea/modules/StructuredToKafka-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/avrostreaming.iml" filepath="$PROJECT_DIR$/.idea/modules/avrostreaming.iml" />
