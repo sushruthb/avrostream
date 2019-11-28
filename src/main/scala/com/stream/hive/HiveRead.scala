@@ -13,7 +13,7 @@ object HiveRead {
 
     Logger.getLogger("org").setLevel(Level.ERROR)
 
-    val warehouseLocation = new File("/apps/spark/warehouse").getAbsolutePath
+    val warehouseLocation = new File("/apps/hive/warehouse").getAbsolutePath
 
     val spark = SparkSession
       .builder()
