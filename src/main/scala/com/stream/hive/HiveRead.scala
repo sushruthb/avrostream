@@ -25,6 +25,7 @@ object HiveRead {
     import spark.implicits._
     import spark.sql
 
+    sql("use spark")
     sql("CREATE TABLE IF NOT EXISTS src (key INT, value STRING) USING hive")
     sql("LOAD DATA LOCAL INPATH 'src/main/resources/kv1.txt' INTO TABLE src")
 

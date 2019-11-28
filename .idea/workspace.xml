@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21096389-a697-4d62-ab27-850568798104" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/stream/hive/HiveRead.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/stream/hive/HiveRead.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../streaming/.idea/modules/StructuredToKafka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../streaming/.idea/modules/StructuredToKafka.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../streaming/project/assembly.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../streaming/project/assembly.sbt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../streaming/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../streaming/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
